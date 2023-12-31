@@ -1,4 +1,4 @@
-# PANDAS-TASK-COVID-DATA-SET
+# PANDAS-TASK-COVID-DATA-SET.
 **#COVID DATA
 Q. 1) Show the number of Confirmed, Deaths and Recovered cases in each Region. 
 Q. 2) Remove all the records where the Confirmed Cases is Less Than 10.
